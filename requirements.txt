@@ -1,3 +1,5 @@
+numpy==1.13.3+mkl
+pandas==0.21.1
 Flask
 flask_restplus
 azure-datalake-store
